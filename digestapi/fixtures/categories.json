@@ -1,0 +1,37 @@
+[
+  {
+    "model": "digestapi.category",
+    "pk": 1,
+    "fields": {
+      "name": "Fantasy"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "pk": 2,
+    "fields": {
+      "name": "Suspense"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "pk": 3,
+    "fields": {
+      "name": "Non-Fiction"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "pk": 4,
+    "fields": {
+      "name": "Historical Fiction"
+    }
+  },
+  {
+    "model": "digestapi.category",
+    "pk": 5,
+    "fields": {
+      "name": "Science Fiction"
+    }
+  }
+]

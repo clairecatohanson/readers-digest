@@ -1,0 +1,57 @@
+[
+  {
+    "model": "digestapi.book",
+    "pk": 1,
+    "fields": {
+      "title": "Outliers: The Story of Success",
+      "author": "Malcolm Gladwell",
+      "isbn": "9780316017923",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344266315i/3228917.jpg",
+      "user": 1
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 2,
+    "fields": {
+      "title": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
+      "author": "Erik Larson",
+      "isbn": "9780609608449",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583433024i/397483.jpg",
+      "user": 1
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 3,
+    "fields": {
+      "title": "Dark Matter",
+      "author": "Blake Crouch",
+      "isbn": "9781101904220",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472119680i/27833670.jpg",
+      "user": 1
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 4,
+    "fields": {
+      "title": "A Game of Thrones",
+      "author": "George R. R. Martin",
+      "isbn": "9780553588484",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562726234i/13496.jpg",
+      "user": 3
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 5,
+    "fields": {
+      "title": "Harry Potter and the Half-Blood Prince",
+      "author": "J. K. Rowling",
+      "isbn": "9780439784542",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587697303i/1.jpg",
+      "user": 3
+    }
+  }
+]
